@@ -1,5 +1,4 @@
-# madmimi-bootstrap-form
-<h1>Mad Mimi webform built with bootstrap </h1>
+#Mad Mimi webform built with bootstrap
 
 <h2>About:</h2>
 Basically just a webform that's responsive using bootstrap.
